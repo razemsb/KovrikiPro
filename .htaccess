@@ -1,0 +1,2 @@
+ErrorDocument 404 /kovriki/404.html
+AddDefaultCharset UTF-8
